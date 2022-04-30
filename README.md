@@ -1,4 +1,4 @@
-<strong> Hi, I'm aline, Welcome! </strong>
+<strong> Hi, I'm aline, Welcome! </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 Bachelor's degree software engineering student
 
@@ -18,10 +18,10 @@ Main Skills: Html, Css, Javascript
   <img align="rigth" src="https://cdn.discordapp.com/attachments/764197435290812436/970028382106562591/ezgif.com-gif-maker_2.gif">
        </div>
        
- <div>
+ <div style="display: inlineblock">
   <a ref = "https://www.linkedin.com/in/aline-mota-74202715a/" targed="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a ref = "https://www.facebook.com/aline.coelho.39750/" targed="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" targed="_blank"></a>
      </div>
-     ![Snake animation](https://github.com/alinecoelhooo/alinecoelhooo/blob/output/github-contribution-grid-snake.svg)
+   
      
     
