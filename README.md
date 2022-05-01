@@ -16,14 +16,14 @@
   </br></br>
 
 <div style="display: inline_block">
-     <a ref="https://github.com/alinecoelhooo">
-    <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=alinecoelhooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+     <a href="https://github.com/alinecoelhooo">
+   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=alinecoelhooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
        <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecoelhooo&layout=compact&langs_count=168theme=tokyonigth"/>
 
      
  <div >
-  <a ref="https://www.linkedin.com/in/aline-mota-74202715a" targed="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  targed="_blank"></a>
-  <a ref="https://www.facebook.com/aline.coelho.39750" targed="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" targed="_blank"></a> </br>
+  <a href="https://www.linkedin.com/in/aline-mota-74202715a" targed="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  targed="_blank"></a>
+  <a href="https://www.facebook.com/aline.coelho.39750" targed="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" targed="_blank"></a> </br>
      <img align="rigth" src="https://cdn.discordapp.com/attachments/764197435290812436/970028382106562591/ezgif.com-gif-maker_2.gif" heigth="100cm" width="100cm"  >
      </div>
      
