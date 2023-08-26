@@ -1,6 +1,6 @@
 
 <h3 ><strong> Hi, I'm aline, Welcome! </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
-<h4>💻 Future web developer </h4>
+<h4>💻 I'm a developer on the ServiceNow platform </h4>
 
 - <p> Bachelor's degree software engineering student </p>
 - <p> Studying systems analysis and development technician</p>
